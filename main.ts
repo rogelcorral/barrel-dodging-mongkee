@@ -43,7 +43,7 @@ tiles.setTilemap(tiles.createTilemap(
 2 2 2 2 2 2 2 2 2 2 
 2 2 2 2 2 2 2 2 2 2 
 `,
-            [myTiles.tile0,sprites.builtin.brick,sprites.builtin.oceanDepths0,sprites.builtin.oceanDepths1,sprites.builtin.oceanDepths6],
+            [myTiles.tile0,sprites.builtin.brick,sprites.builtin.oceanDepths0,sprites.builtin.oceanDepths1,sprites.builtin.oceanDepths6,sprites.dungeon.darkGroundNorthWest0,sprites.dungeon.darkGroundNorthWest1,sprites.dungeon.darkGroundNorthEast1,sprites.builtin.oceanDepths8,sprites.builtin.oceanDepths9,sprites.dungeon.collectibleBlueCrystal,sprites.dungeon.collectibleInsignia,sprites.builtin.crowd1,sprites.castle.saplingOak,sprites.castle.tileDarkGrass2,sprites.dungeon.darkGroundNorth,sprites.dungeon.darkGroundNorthEast0,sprites.dungeon.darkGroundWest,sprites.dungeon.darkGroundEast,sprites.dungeon.darkGroundSouthEast0,sprites.dungeon.darkGroundSouth,sprites.dungeon.darkGroundSouthWest0],
             TileScale.Sixteen
         ))
 mySprite = sprites.create(img`
